@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "JSYOvO 개인 포트폴리오 블로그",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jaeseop Yoo (jsyouo@gmail.com)",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/JSYOvO/JSYOvO.github.io"
   },
   "dependencies": {
     "gatsby": "^2.25.3",

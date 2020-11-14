@@ -38,15 +38,14 @@ description: 경력기술서입니다.
 ---    
 &nbsp; **반도체 데이터 분석 웹서비스 개발 [2019.05 ~ 2019.12]**  
 &nbsp;&nbsp; 반도체 데이터 분석 시스템 ReactJS 기반의 신규버젼을 구축하였습니다.  
-&nbsp;&nbsp; 기존의 .Net 기반 웹서비스에 비해 빠른속도 및 깔끔한 UX 제공을 목표로 하였습니다.  
-&nbsp;&nbsp; SPA로 구축하였으며, 기존 시스템 각 화면들을 하나씩 추가하였습니다.  
+&nbsp;&nbsp; 기존의 .Net 기반 웹서비스에 비해 빠른속도 및 깔끔한 UX 제공을 목표로 하였습니다.   
 
 &nbsp;&nbsp;&nbsp; - Technical  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Web-Front : ReactJS + Hooks, Redux, Material-Ui*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Web-Back : 기존시스템 서버 그대로 활용 (.Net)*  
 &nbsp;&nbsp;&nbsp; - Project  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *프로젝트 리더와 계속적인 소통을 통해 요구사항 및 개발진행 상황 공유*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *기존 시스템이 워낙 거대하여 지속적인 회의를 통해 개발방향 설정*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *기존 시스템이 워낙 거대하여 지속적인 회의를 통해 개발순서 및 방향 설정*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *기존과 다른 직관적이고 예쁜 UX를 제공하기 위해 CX팀과도 지속적인 협력*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *개발 프로세스 : 사내 SVN을 통한 이력관리*
 
@@ -98,9 +97,9 @@ description: 경력기술서입니다.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Web-Back : Firebase*  
 
 &nbsp;&nbsp;&nbsp; - Link  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *깃 허 브 : https://github.com/JSYOvO/KakaoTalk-Clone*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *D E M O : https://kakaotalk-clone.web.app*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *포트폴리오 : http://localhost:8000/%ED%86%A0%EC%9D%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1/*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[깃 허 브](https://github.com/JSYOvO/KakaoTalk-Clone)*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[D E M O](https://kakaotalk-clone.web.app)*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[포트폴리오](https://jsyovo.gq/%ED%86%A0%EC%9D%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1/)*  
 
 ---  
 &nbsp; **아마존 클론**  
@@ -116,7 +115,7 @@ description: 경력기술서입니다.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Payment : Stripe, NodeJS Express Server + Firebase Functions Hosting*  
 
 &nbsp;&nbsp;&nbsp; - Link  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *깃 허 브 : https://github.com/JSYOvO/Amazon-Clone*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *D E M O : https://clone-31f17.web.app*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *포트폴리오 : http://localhost:8000/%ED%86%A0%EC%9D%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%EB%A7%88%EC%A1%B4/*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[깃 허 브](https://github.com/JSYOvO/Amazon-Clone)*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[D E M O](https://clone-31f17.web.app)*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[포트폴리오](https://jsyovo.gq/%ED%86%A0%EC%9D%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%EB%A7%88%EC%A1%B4/)*  
 ---  
