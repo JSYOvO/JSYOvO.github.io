@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `개발자 유재섭 포트폴리오`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `유재섭`,
+      summary: `낮에는 반도체 시스템 개발자, 밤에는 ReactJS 개발자로 여러 재미있는 것들을 빌드하고 있습니다.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://JSYOvO.github.io`,
     social: {
       twitter: `kylemathews`,
     },
