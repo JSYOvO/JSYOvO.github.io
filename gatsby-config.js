@@ -3,7 +3,8 @@ module.exports = {
     title: `개발자 유재섭 포트폴리오`,
     author: {
       name: `유재섭`,
-      summary: `낮에는 반도체 시스템 개발자, 밤에는 ReactJS 개발자로 여러 재미있는 것들을 빌드하고 있습니다.`,
+      summary: `낮에는 반도체 시스템 개발자, 밤에는 React개발자로 재미있는 것들을 빌드하고 있습니다.`,
+      history: ``,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://JSYOvO.github.io`,
