@@ -14,8 +14,7 @@ description: 경력기술서입니다.
 ##### <간략한 소개>  
 &nbsp;&nbsp;&nbsp;&nbsp;       현재 직장에서 주로 반도체 데이터를 수집하고 가공하여 인사이트를 찾고,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 가공한 데이터 및 인사이트를 확인할 수 있는 웹페이지를 개발하고 있습니다.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 그리고 퇴근 후엔 리액트로 여러가지 재미있는 것, 새로운 것들을 빌드하며  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 즐겁게 계속 배우며 성장 중입니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 그리고 퇴근 후엔 리액트로 여러가지 재미있는 것, 새로운 것들을 빌드하며 지냅니다.
 
   
 ![devlife](./my-dev-life.png)  
@@ -26,37 +25,38 @@ description: 경력기술서입니다.
 &nbsp; **사내 시스템 관리용 웹서비스 개발 [2020.05 - 2020.09]**  
 &nbsp;&nbsp; 반도체 데이터 분석 시스템 내 수 많은 ETL 잡, 데이터 생성 및 가공, 데이터베이스 상태  
 &nbsp;&nbsp; 관리 및 업무자동화를 위한 웹서비스를 개발하였습니다.  
-&nbsp;&nbsp; 수 많은 현황들을 제공하기 위해 차트 및 그래프 등의 이미지 데이터를 활용하였습니다.  
+&nbsp;&nbsp; 수 많은 현황들을 알기쉽게 제공하기 위해 D3.js 라이브러리를 활용한 데이터시각화에   
+&nbsp;&nbsp; 중점을 두었습니다.
 
 &nbsp;&nbsp;&nbsp; - Technical  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Web-Front : ReactJS + Hooks, Material-Ui, ChartJS*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Web-Front : ReactJS + Hooks, Material-Ui, D3.js*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Web-Back : 기존 시스템 서버 그대로 활용 (.Net)*  
 
 &nbsp;&nbsp;&nbsp; - Project  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *프로젝트 리더와 지속적인 소통을 통해 요구사항 및 개발진행 상황 공유*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *개발 프로세스 : 사내 SVN을 통한 이력관리*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *시스템 내 수 많은 정보들을 한눈에 알기쉽게 제공*
 
 ---    
 &nbsp; **반도체 데이터 분석 웹서비스 개발 [2019.05 ~ 2019.12]**  
 &nbsp;&nbsp; 반도체 데이터 분석 시스템을 ReactJS 기반의 신규버젼으로 구축하였습니다.  
-&nbsp;&nbsp; 기존의 .Net 기반 웹서비스에 비해 빠른속도 및 깔끔한 UX 제공을 목표로 하였습니다.   
+&nbsp;&nbsp; 특히 다양한 개발자 분들이 쉽게 개발 수 있도록 컴포넌트 개발에 집중하였습니다.  
+&nbsp;&nbsp; 기존의 .Net 기반 웹서비스에 비해 빠른속도 및 깔끔한 UX 제공을 목표로 하였습니다.     
 
 &nbsp;&nbsp;&nbsp; - Technical  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Web-Front : ReactJS + Hooks, Redux, Material-Ui*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Web-Front : ReactJS + Hooks, Redux, Material-Ui, D3.js*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Web-Back : 기존 시스템 서버 그대로 활용 (.Net)*  
 
 &nbsp;&nbsp;&nbsp; - Project  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *프로젝트 리더와 지속적인 소통으로 요구사항 및 개발진행 상황 공유*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *기존 시스템이 워낙 거대하여 지속적인 회의를 통해 개발순서 및 방향 설정*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *기존과 다른 직관적이고 예쁜 UX를 제공하기 위해 CX팀과도 지속적인 협력*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *개발 프로세스 : 사내 SVN을 통한 이력관리*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *기존 시스템이 워낙 거대했기에 상대적으로 많은 인력이 프로젝트에 투입되어*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *소통하고 협업하는 방법을 배움*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *기존과 다른 직관적이고 만족도 높은 UI/UX 제공을 위해 CX팀과도 지속적인 협력*  
 
 ---    
 &nbsp; **반도체 데이터 ETL잡 및 웹서비스 개발 [2018.10 ~ 2019.03]**  
-&nbsp;&nbsp; 반도체 분석 시스템 => 반도체 빅데이터 시스템으로의 신규 ETL 잡을 개발하였습니다.  
+&nbsp;&nbsp; 반도체 시스템 간의 신규 ETL 잡을 개발하였습니다.   
 &nbsp;&nbsp; 직관성이 높아 시스템을 운영하기에 편리한 Apache 사의 NIFI를 활용하였습니다.  
 &nbsp;&nbsp; NIFI ETL 잡의 기준정보, 진행상황, 서버상태, 로그상황 등을 빠르기 확인하기 위해서  
-&nbsp;&nbsp; ReactJS 기반 운영용 웹서비스를 추가로 구축하였습니다.
+&nbsp;&nbsp; 간단한 ReactJS 기반 운영용 웹서비스를 추가로 구축하였습니다.
 
 &nbsp;&nbsp;&nbsp; - Technical  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Web-Front : ReactJS(운영용 웹)*  
@@ -66,9 +66,8 @@ description: 경력기술서입니다.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *1인 프로젝트로 개발 목표수립부터 실제 배포까지 모두 혼자 진행*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *NIFI의 경우는 현재 해당 시스템을 운영중인 부서 담당자분께 컨택하여 얻은 관련 지식*    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *및 자료를 바탕으로 구축*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *처음으로 ReactJS 를 활용한 프로젝트였기에, 개발과정에서 공부하고 얻은 지식을 매주*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *처음으로 ReactJS 를 활용한 프로젝트였기에 개발과정에서 공부하고 얻은 지식을 매주*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *부서원들과 공유하는 시간을 가짐*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *개발 프로세스 : 사내 SVN을 통한 이력관리*
 
 ---       
 &nbsp; **3D 비젼 알고리즘 개발 [2017.12 ~ 2018.05]**  
