@@ -67,7 +67,7 @@ description: 경력기술서입니다.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *NIFI의 경우는 현재 해당 시스템을 운영중인 부서 담당자분께 컨택하여 얻은 관련 지식*    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *및 자료를 바탕으로 구축*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *처음으로 ReactJS 를 활용한 프로젝트였기에 개발과정에서 공부하고 얻은 지식을 매주*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *부서원들과 공유하는 시간을 가짐*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *부서원들과 공유하는 시간을 가짐*   
 
 ---       
 &nbsp; **3D 비젼 알고리즘 개발 [2017.12 ~ 2018.05]**  
